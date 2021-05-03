@@ -2,7 +2,9 @@
 ### Hi there 👋
 
 
-<img align="right" alt="guofei9987's github stats" width="50%" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=yiwenxue&show_icons=true&" />
+<a href="https://yiwenxue.github.io/">
+<img align="right" width="50%" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=yiwenxue&show_icons=true&" />
+</a>
 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
